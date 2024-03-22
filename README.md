@@ -1,11 +1,9 @@
-Welcome to Sonic Run, an entertaining and charming imitation of the classic Chrome Dinosaur Game! Experience the joy of endless running with our lovable sonic as you navigate through a pixelated world filled with cacti and pterodactyls.
-
-SonicRun captures the essence of the Chrome Dinosaur Game with a delightful twist. Embark on an endless journey through a vibrant landscape, hopping over obstacles as sonic. The game gradually intensifies, providing a thrilling experience that keeps you coming back for more.
+Welcome to Sonic Run, an entertaining imitation of the classic Chrome Dinosaur Game! Experience the joy of endless running with sonic as you navigate through a pixelated world filled with cacti and pterodactyls.
 
 Controls:
 
-Up Arrow Key: Execute precise jumps to overcome obstacles.
-Down Arrow Key: Rolls along the floor to duck under obstacles.
+Up Arrow Key: Jump.
+Down Arrow Key: Roll.
 
 How to Play:
 
